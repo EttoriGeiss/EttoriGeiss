@@ -6,7 +6,7 @@
 * I do like graphics 🎨 too
 * My prefered music groups 🎶 are Pink Floyd &amp; The Doors
 
-## Languages that I've learnt a bit so far:
+## Languages that I've learned a bit so far:
 ![Pascal](https://i.postimg.cc/KYkVKtdw/pascal.png)&nbsp;
 ![C](https://i.postimg.cc/0yLFsvPg/c.png)&nbsp;
 ![C++](https://i.postimg.cc/mDMB3hDr/cpp.png)&nbsp;
