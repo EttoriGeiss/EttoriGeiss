@@ -1,10 +1,8 @@
-# My name is <span style="color: #5454dd">Ettori Geiss</span> ♋
+# My name is <span style="color: #5454dd">Ettori Geiss</span>
 
 * I'm currently studying 📚 some information technology classes 💻
 * At <span style="color: #0f0;">IFPR</span> - Campus União da Vitória 🎓
 * My favorite disciplines 🏫 are/were: logic , procedural prog &amp; web prog
-* I do like graphics 🎨 too
-* My prefered music groups 🎶 are Pink Floyd &amp; The Doors
 
 ## Languages that I've learned a bit so far:
 ![Pascal](https://i.postimg.cc/KYkVKtdw/pascal.png)&nbsp;
