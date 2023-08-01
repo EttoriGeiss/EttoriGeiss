@@ -20,5 +20,3 @@
 
 
 ## Good bye dear visitor 👋
-
-![LOL](https://i.postimg.cc/kGJykht0/myName.gif)&nbsp;
