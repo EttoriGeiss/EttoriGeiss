@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Ettori Geiss">
+  <meta name="keywords" content="web 2, web II">
+  <title>Imobiliária</title>
+  <script src="js/other.js" defer></script>
+  <!-- <script src="js/gui.js" defer></script> -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- <link rel="stylesheet" href="css/mobile.css"> -->
+  <link rel="icon" href="img/icon.ico" type="image/icon">
+
+  <!-- internal CSS -->
+  <style>
+    html {
+      background-image: url("img/p3.jpg");
+    }
+
+    .headerB,
+    .menuLeft:hover,
+    .menuRight:hover,
+    .footerAuthor {
+      background-image: url("img/bin2.gif");
+    }
+  </style>
+</head>
+
+<body>
+  <div class="page">
+
+    <!-- header -->
+    <div class="headerA"><a href="index.html" title="Homepage">Imobiliária</a></div>
+    <div class="headerB">Programação WEB II</div>
+
+    <!-- mudar cor da página -->
+    <div id="color" title="Change interface color"><img src="img/color.png" alt="Image couldn't be loaded"></div>
+
+    <!-- menu central -->
+    <nav id="menu">
+      <ul>
+        <li><a href="index.html" target="_self" title="Home">Home</a></li>
+        <li><a href="casas.html" target="_self" title="Casas cadastradas">Casas</a></li>
+        <li><a href="apartamentos.html" target="_self" title="Apartamentos cadastrados">Apartamentos</a></li>
+      </ul>
+    </nav>
+
+    <!-- body -->
+    <div class="body">
+
+      <!-- left menu -->
+      <div class="menuLeft">
+        <span class="menuTitle">[-] Menu:</span>
+        <ul class="menuList">
+          <li class="menuItem"><a href="index.html" target="_self" title="Home">Home</a></li>
+          <li class="menuItem"><a href="casas.html" target="_self" title="Casas cadastradas">Casas</a></li>
+          <li class="menuItem"><a href="apartamentos.html" target="_self" title="Apartamentos cadastrados">Apartamentos</a></li>
+        </ul>
+      </div>
+
+      <!-- right menu -->
+      <div class="menuRight">
+        <span class="menuTitle">[-] Links:</span>
+        <ul class="menuList">
+          <li class="menuItem"><a href="https://sigaa.ifpr.edu.br/sigaa/verTelaLogin.do" target="_blank"
+              title="Acessar o Sistema de Gestão Acadêmica dos Institutos Federais">Sigaa.ifpr</a></li>
+          <li class="menuItem"><a href="https://www.w3schools.com" target="_blank"
+              title="Acessar o W3schools">W3Schools</a></li>
+          <li class="menuItem"><a href="https://uniao.ifpr.edu.br" target="_blank"
+              title="Acessar o site do IF de União">IFPR.edu</a></li>
+          <li class="menuItem"><a href="https://github.com" target="_blank" title="Acessar o Github">Github</a></li>
+        </ul>
+      </div>
+
+      <h1>Casas cadastradas.</h1>
+      <div id="containerCasas">
+      </div>
+
+    </div>
+
+    <!-- footer -->
+    <div class="footer">
+      <div class="footerAuthor">Por Ettori | 2023</div>
+      <div class="footerLinks">
+        <a href="index.html" title="Homepage">Home</a>
+        <a href="casas.html" target="_self" title="Casas cadastradas">Casas</a>
+        <a href="apartamentos.html" target="_self" title="Apartamentos cadastrados">Apartamentos</a>
+      </div>
+    </div>
+
+  </div>
+</body>
+
+</html>
