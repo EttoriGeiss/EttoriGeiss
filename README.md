@@ -1,1 +1,1 @@
-## Hya dear visitor 👋
+## GTFO 👋
